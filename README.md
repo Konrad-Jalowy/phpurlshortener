@@ -1,2 +1,2 @@
 # phpurlshortener
-**simple project done with udemy course. i understand it fully. an exercise, i will try to implement it in laravel soon. aside from using outdated sql driver its really clever project with some nice idea**
+**simple project done with udemy course. i understand it fully. an exercise, i will try to implement it in laravel soon. aside from using outdated sql driver its really clever project with some nice ideas. i like the idea of autofocusing on load on input and the ability to use enter instead of a button (but could be restricted when you hit enter on empty input). Its small things but kinda cleaver. And the whole idea of a link shortener project**
